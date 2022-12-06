@@ -1,4 +1,4 @@
-# React Native Push Notifications
+# React Native Notifications (push-notification-react-native)
 
 ### All credits goes to https://www.npmjs.com/package/react-native-push-notification and its author. This new packages is created to support only the android SDK >= 31. As the mentioned package is not active and giving any update this new clone of the package is helpful to support only Android >= 12. This package won't do any more bug fixes and modifications.
 
@@ -14,13 +14,13 @@ Since this project probably need a huge refactor to fix some issue or to impleme
 ### NPM
 
 ```
-npm install --save react-native-push-notifications
+npm install --save push-notification-react-native
 ```
 
 ### Yarn
 
 ```
-yarn add react-native-push-notifications
+yarn add push-notification-react-native
 ```
 
 **NOTE: If you target iOS you also need to follow the [installation instructions for PushNotificationIOS](https://github.com/react-native-community/react-native-push-notification-ios) since this package depends on it.**
